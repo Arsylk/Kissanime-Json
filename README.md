@@ -35,6 +35,9 @@ Here you get a simple list of all the anime episodes that were loaded form your 
 
 All the watched episodes id (few digits) will be saved in SharedPreference so you can swap between files and watched episodes will stay.
 
+### Screenshots
+![Main Tab](https://media.discordapp.net/attachments/339854401663664138/501363175766360064/unknown.png?width=169&height=300 "Main Tab") ![Url Tab]( https://media.discordapp.net/attachments/339854401663664138/501363357773725696/unknown.png?width=169&height=300 "Search Tab") ![Downloading]( https://media.discordapp.net/attachments/339854401663664138/501363464963489792/unknown.png?width=169&height=300 "Downloading") ![Finished]( https://media.discordapp.net/attachments/339854401663664138/501363735374462976/unknown.png?width=169&height=300 "Finished") ![File Tab]( https://media.discordapp.net/attachments/339854401663664138/501363848906014720/unknown.png?width=169&height=300 "File Tab") ![Anime Tab](https://media.discordapp.net/attachments/339854401663664138/501364011678564364/unknown.png?width=169&height=300 "Anime Tab") ![Json content]( https://media.discordapp.net/attachments/339854401663664138/501364324414259203/unknown.png?width=169&height=300 "Json content")
+
 ### End
 I know this app looks extremaly basic from the graphical part, but the amount of work that went into the programming side took a lot of time and i dont mind simple GUI
 
