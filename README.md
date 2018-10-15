@@ -1,5 +1,5 @@
 ### Download apk
-https://puu.sh/BLnFn/9533e7ce25.apk
+https://puu.sh/BLiMw/347930d203.apk
 
 ### Overview
 
