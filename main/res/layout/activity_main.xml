@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="6dp"
+        android:orientation="vertical">
+
+    <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <Button
+                android:text="File"
+                android:layout_weight="1"
+                android:id="@+id/main_load_from_file"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        <Button
+                android:text="URL"
+                android:layout_weight="1"
+                android:id="@+id/main_load_from_url"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <TextView
+            android:id="@+id/main_last_anime"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="26sp"
+            android:textColor="#ff3030"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+</LinearLayout>
