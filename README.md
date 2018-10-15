@@ -8,7 +8,7 @@ Main purpose is to make watching anime on mobile simpler and easier
 ### Cloudflare
 This was the main obstacle when creating this project. You need to wait ~5s before the page loads, then solve js challenge forward it to the cloudflare instance and manually handle redirects.
 
-This is why it take so long for everything to load both searches and links, but after they are loaded they get saved in `/sdcard/Kissanime/`, from where you can later just open then and watch.
+This is why it take so long for everything to load, both searches and links, but after they are loaded they get saved in `/sdcard/Kissanime/`, from where you can later just open then and watch.
 
 
 ### Features
@@ -34,6 +34,9 @@ All the watched episodes id (few digits) will be saved in SharedPreference so yo
 
 ### End
 I know this app looks extremaly basic from the graphical part, but the amount of work that went into the programming side took a lot of time and i dont mind simple GUI
+
+### Future
+I might or might not be updating this project, but if you email me ill try to check why it doesnt work or if i can add something
 
 ### Copyright &copy;
 Feel free to use any part of this code for yourself, or further develop this app but id be happy if you would contact me first: iwaniuk.krzysztof@outlook.com
